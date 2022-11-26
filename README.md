@@ -3,8 +3,8 @@
 ## Infos gerais sobre mim:
 
 - atualmente estou trabalhando com front-end 😃
-- focado nos estudos de CSS e Tailwind 🔥
-- aluno do terceiro semestre da FATEC ✔️
+- focado nos estudos de JS e Programação funcional 🔥
+- aluno do quinto semestre da FATEC ✔️
 - cursando ADS 🙃
 - curto muito desenhar 🎨
 
